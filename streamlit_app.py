@@ -65,7 +65,7 @@ def get_results(res):
 if index is not None:
     ## Load the model
     try:
-        total_rows , total_cols = 3, 4
+        total_rows , total_cols = 3, 5
         with st.spinner("Loading model..."):   
             model = pickle.load(open(main_model_path, 'rb'))
             results = [int(ind[0]) for ind in model[index][1:(total_rows * total_cols + 1)]]
