@@ -1,6 +1,6 @@
 # Movie Recommender
 
-***Simulation link: http://filmrcm.herokuapp.com***
+***Simulation link: https://captain785-movie-recommender-streamlit-app-vh6mqb.streamlit.app/***
 
 ## Overview
 This is a NLP based project which aims to recommend the movies based on content.
@@ -11,8 +11,4 @@ user has to search the movies among 5000 and it will provide top 5 most similar 
 movies on website, it uses the TMDB api that enable user to see exact movies.
 
 
-### Library Used:
-* <code>pandas</code>
-* <code>numpy</code>
-* <code>sklearn</code>
-* <code>nltk</code>
+
