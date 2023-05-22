@@ -10,5 +10,7 @@ of TMDB website which contains 5000 movies with all the information. To get the 
 user has to search the movies among 5000 and it will provide top 5 most similar movies. To fetch the poster of
 movies on website, it uses the TMDB api that enable user to see exact movies.
 
+## Preview
+![image](https://github.com/CaptaiN785/Movie-Recommender/assets/83746932/0c1682a5-39d6-443d-b68e-98f16816a410)
 
 
